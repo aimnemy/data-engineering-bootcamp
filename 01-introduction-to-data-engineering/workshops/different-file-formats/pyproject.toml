@@ -8,8 +8,8 @@ authors = ["zkan <zkan.cs@gmail.com>"]
 python = "^3.10"
 pandas = "^1.5.3"
 jupyter = "^1.0.0"
-pyarrow = "^11.0.0"
-avro = "^1.11.1"
+pyarrow = "^14.0.1"
+avro = "^1.11.3"
 lxml = "^4.9.2"
 parquet-tools = "^0.2.13"
 
